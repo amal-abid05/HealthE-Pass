@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. Assurez-vous d'avoir Node.js et NPM installés sur votre machine.
 
 2. Clonez ce dépôt Git sur votre machine locale.
-  ``` git clone https://github.com/amal-abid05/Projet-CRNS.git ```
+  ``` git clone https://github.com/amal-abid05/HealthE-Pass ```
 
 
 3. Accédez au répertoire du projet.
